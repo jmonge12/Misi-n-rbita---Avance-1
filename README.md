@@ -7,6 +7,9 @@ Simulador básico de exploración espacial desarrollado en Python para el curso 
 - Josue Monge Miranda
 
 ## Estructura del Repositorio
+## Estructura del Repositorio
+
+```text
 mision-orbita/
 ├── README.md
 ├── avance1/
@@ -16,7 +19,7 @@ mision-orbita/
 │   └── ejercicio4_autorizacion.py
 └── documentacion/
     └── Avance_1_Mision_Orbita.pdf
-
+```
 ## Instrucciones de Ejecución
 Cada programa se ejecuta de manera independiente en la consola con Python 3.
 

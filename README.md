@@ -1,7 +1,7 @@
 # Misión Órbita - Avance 1
 
 ## Descripción
-Simulador básico de exploración espacial desarrollado en Python para el curso Principios de Programación 1 (SOFT-01) de la Universidad CENFOTEC[cite: 26, 34]. En este avance se implementan cuatro algoritmos independientes para la preparación de misiones[cite: 2, 34].
+Simulador básico de exploración espacial desarrollado en Python para el curso Principios de Programación 1 (SOFT-01) de la Universidad CENFOTEC. En este avance se implementan cuatro algoritmos independientes para la preparación de misiones.
 
 ## Integrantes
 - Josue Monge Miranda
@@ -18,5 +18,5 @@ mision-orbita/
     └── Avance_1_Mision_Orbita.pdf
 
 ## Instrucciones de Ejecución
-Cada programa se ejecuta de manera independiente en la consola con Python 3.x[cite: 34]:
+Cada programa se ejecuta de manera independiente en la consola con Python 3.
 

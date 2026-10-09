@@ -4,9 +4,7 @@
 Simulador básico de exploración espacial desarrollado en Python para el curso Principios de Programación 1 (SOFT-01) de la Universidad CENFOTEC[cite: 26, 34]. En este avance se implementan cuatro algoritmos independientes para la preparación de misiones[cite: 2, 34].
 
 ## Integrantes
-- [Nombre y Apellido 1]
-- [Nombre y Apellido 2]
-- [Nombre y Apellido 3]
+- Josue Monge Miranda
 
 ## Estructura del Repositorio
 mision-orbita/

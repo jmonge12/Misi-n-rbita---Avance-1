@@ -7,7 +7,6 @@ Simulador básico de exploración espacial desarrollado en Python para el curso 
 - Josue Monge Miranda
 
 ## Estructura del Repositorio
-## Estructura del Repositorio
 
 ```text
 mision-orbita/
